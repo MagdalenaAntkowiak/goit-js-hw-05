@@ -1,1 +1,1 @@
-https://magdalenaantkowiak.github.io/goit-js-hw-04/
+https://magdalenaantkowiak.github.io/goit-js-hw-05/
